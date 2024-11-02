@@ -30,7 +30,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: jekyll-bear-theme
+remote_theme: knhash/jekyllBear
+
 plugins:
   - jekyll-redirect-from
 
